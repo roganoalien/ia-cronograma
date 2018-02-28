@@ -25,7 +25,7 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
@@ -47,9 +47,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.4196078431372549,
-          "green": 0.380392156862745,
-          "red": 0.9764705882352941
+          "blue": 0.8313725490196078,
+          "green": 0.6274509803921566,
+          "red": 0
         },
         "fillType": 0,
         "isEnabled": true,

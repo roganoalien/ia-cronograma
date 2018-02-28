@@ -13,8 +13,8 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 690,
-    "width": 1021,
+    "height": 1600,
+    "width": 1485,
     "x": 0,
     "y": 0
   },
@@ -25,6 +25,10 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
+    {
+      "class": "bitmap",
+      "id": "FC9223A7-F793-4FD1-B5FA-6B11289E3FFC"
+    },
     {
       "class": "symbolInstance",
       "id": "07513E37-0BF0-4B21-80E8-3C3900CD63FE"
