@@ -1,0 +1,123 @@
+{
+  "_class": "group",
+  "do_objectID": "DB3313E4-4486-410B-807C-87B6574CB0A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 58.00000000000011,
+    "width": 53,
+    "x": 1.13686837721616e-13,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D79629E2-4A78-4F93-B5E4-363F745AB2BB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B6619F78-1C00-47AE-82DF-647BD5CF1839"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D4C33BA4-5F12-4461-9477-1B1D13858308"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "39C06EBD-976C-4F41-8A15-94F76B8D899C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B3E4E292-A519-4BB2-8D8C-2BCADB451B4D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2AF0DC18-A699-4FC1-9B36-0D1D523ECCA9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11CA7F91-F1E3-4D4F-8894-8D42B13B25B1"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "20B15DB6-FF03-41BB-A69B-32352D8DE69D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AFE0163A-AEE4-4AF1-90C9-DD38B198EE76"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5DFD333A-B32A-4F02-92DE-5BCE5F8B2BD4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7CD35A2-1411-4543-8747-1949CF8BF579"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0494B260-ABA2-4E79-83A3-5BE0F4A54E3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "490E92D5-56C3-4B5F-A91E-E23E7F0625EC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2EC7593A-F774-4657-AEB8-2FFF34976ED7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "13E4DC14-118E-41B5-81D2-30C3788CC72F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "99E0947D-C5FE-4313-BF93-C3806182CD3D"
+    }
+  ],
+  "name": "dots",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4196078431372549,
+        "green": 0.380392156862745,
+        "red": 0.9764705882352941
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.4117647058823529,
+        "green": 0.3529411764705883,
+        "red": 0.3098039215686274
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9647058823529412,
+        "green": 0.9568627450980391,
+        "red": 0.9568627450980391
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.9411764705882353,
+        "green": 0.9372549019607843,
+        "red": 0.9333333333333333
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "a58b6270-1caf-11e8-a536-5bdbf71462f2",
+  "foreignSymbols": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "49",
+    "build": 51002,
+    "version": 101
+  },
+  "pages": [
+    "Page 1",
+    "Symbols"
+  ]
+}

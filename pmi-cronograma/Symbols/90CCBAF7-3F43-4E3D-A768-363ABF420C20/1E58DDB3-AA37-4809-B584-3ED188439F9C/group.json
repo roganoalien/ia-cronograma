@@ -1,0 +1,100 @@
+{
+  "_class": "group",
+  "do_objectID": "1E58DDB3-AA37-4809-B584-3ED188439F9C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B24E1639-DCBD-45CF-BDB6-3767501A6F4E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "DC6CD4C5-A59B-48C5-A42F-B2E0D89C3F11",
+    "height": 28,
+    "width": 26,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B77DE7E0-A50C-4B61-9304-9DBB97DE4F55"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F991FEB5-4406-4ADD-81A8-EC2AD2E4A1B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CA4ED59B-C067-4F8C-8C68-E1E4C255EB9B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "11BAD6FB-0BE6-4345-8062-D4EFDE815331"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CB609DA5-782F-4BFA-8C31-C59E7FBE5B56"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1022390A-C686-474F-811B-9866B0FE41DB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7F1602CE-2225-4FB2-8527-D1B04A9EAC26"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AA88CE23-BE68-4437-8173-7D61A4425FD0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CCF23F98-EA37-4B1E-B0C5-AD0335A7AC4B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EDF6369E-46C4-4AE1-9663-0686A7701A46"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7E537330-4C83-4840-8DDB-E09B6AE3D7D7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E0F36062-D748-43B2-9CE8-40E8E008F019"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E2C37BE7-0368-4CB2-B5BE-F374F15DA29D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AC4999B6-45B3-4A54-B70F-7AB16EB9FA31"
+    }
+  ],
+  "name": "calendar",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BF7A1566-676F-4D97-8AEE-8084DE382A17",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
