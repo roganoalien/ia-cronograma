@@ -1,0 +1,56 @@
+{
+  "_class": "group",
+  "do_objectID": "08ACCCA5-8849-426F-A05C-8AD90F3D8A60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "233980A9-EF61-4278-A894-CF4532976C18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "20F3CE6E-E07B-4DF9-BD53-058F420C49C6",
+    "height": 767.9999999999999,
+    "width": 1024,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": true,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8BB56A99-B494-440C-94A6-0E9B618D2CD9"
+    },
+    {
+      "class": "bitmap",
+      "id": "D90058F0-16C9-4AAB-888E-6355D0107797"
+    },
+    {
+      "class": "bitmap",
+      "id": "F5BEB670-4C2D-4D0C-AED1-8029BA5904A2"
+    }
+  ],
+  "name": "app / background",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A480F1C9-FD14-4744-A468-A735DD45FE8F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

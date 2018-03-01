@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "02BDB85A-1B30-485E-8979-25E892366503",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1E4CA2F-881C-466F-9E73-1D632205C002",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EBCBAD65-8E73-486F-9DB0-CFA4C531FB1E",
+    "height": 28,
+    "width": 369,
+    "x": 90,
+    "y": 182
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "calendar.month",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EE60B3BC-FFFD-43D1-8407-822D730D4E9D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "97F33D6D-0354-49EC-86DC-392AFE157BB6",
+  "verticalSpacing": 0
+}

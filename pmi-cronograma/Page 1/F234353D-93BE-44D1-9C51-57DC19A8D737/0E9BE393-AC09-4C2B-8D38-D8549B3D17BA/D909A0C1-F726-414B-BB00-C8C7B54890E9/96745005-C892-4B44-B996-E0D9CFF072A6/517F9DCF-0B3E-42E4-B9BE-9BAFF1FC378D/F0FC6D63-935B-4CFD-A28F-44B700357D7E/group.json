@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "F0FC6D63-935B-4CFD-A28F-44B700357D7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F09490EA-FDC8-45CA-9BFF-0A489E37A7E6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "36B16579-07BB-4D97-997A-5E929AC55560",
+    "height": 41,
+    "width": 41,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "A0F36E77-1294-40D0-B7BC-F798266DEEEC"
+    }
+  ],
+  "name": "ascendant-bars-graphic",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A3FAB46-79B2-44D6-B6EF-7C5FE581C45C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F3391427-80E9-4498-B22F-A7F691F52E96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "885B3611-E2DD-49B4-BB65-7DE704597DAE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "69B778B9-6BDB-45A1-A568-9D7879E2538C",
+    "height": 28,
+    "width": 26,
+    "x": 0,
+    "y": 1
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "calendar_orange copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "716EC9A0-57D8-4F64-9FC8-AE6063A6A7EA",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "88ECD6B1-A51A-40D2-ABC1-80929443B9C1",
+  "verticalSpacing": 0
+}

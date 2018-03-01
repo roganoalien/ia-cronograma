@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "do_objectID": "7061DD65-1F36-4BAE-B6BC-441DA1C32926",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8BE703EA-5305-451E-B906-2C96AA1D3398",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E2C1BEED-C0C5-4007-8571-607000A1F951",
+    "height": 768,
+    "width": 1024,
+    "x": 232,
+    "y": 134
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "368D1EEB-C6E1-48A0-A4A5-3212C3E15A70"
+    }
+  ],
+  "name": "app / background",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "AEF2739B-B232-4EBD-9DA9-C4188A5B21D0",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 16,
+        "color": {
+          "_class": "color",
+          "alpha": 0.2566802536231884,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": -3,
+        "offsetY": 0,
+        "spread": 0
+      }
+    ],
+    "startDecorationType": 0
+  }
+}

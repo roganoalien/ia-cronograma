@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "A7CC043B-3165-4D5E-8830-8F850F0D8BA5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "76C0CCEF-773A-4AAB-BC02-16419A2E90B7",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9008394B-857C-4EB3-B5BA-3A291ECDF8AC",
+    "height": 99.5121951219514,
+    "width": 89.28000000000013,
+    "x": 312,
+    "y": 615
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "card / ico-replace",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "overrides": {
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4B753E69-D08E-465D-B2FB-33D742F44359",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "DF1039E4-F3D5-498D-959C-B74ECAA52945",
+  "verticalSpacing": 0
+}

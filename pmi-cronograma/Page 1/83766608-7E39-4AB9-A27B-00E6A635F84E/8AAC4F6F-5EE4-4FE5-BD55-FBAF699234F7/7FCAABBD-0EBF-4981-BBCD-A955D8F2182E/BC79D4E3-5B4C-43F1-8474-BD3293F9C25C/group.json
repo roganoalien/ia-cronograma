@@ -1,0 +1,48 @@
+{
+  "_class": "group",
+  "do_objectID": "BC79D4E3-5B4C-43F1-8474-BD3293F9C25C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "11B8EF05-0990-400B-8138-42857FE22DD3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "490ABE15-8FB0-4424-81CE-F003A33D4237",
+    "height": 39,
+    "width": 35,
+    "x": 26,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "915584A4-ABD1-46C8-9A72-D58F453E93B2"
+    }
+  ],
+  "name": "audience-in-presentation-of-business",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3D92981-4E95-4CAA-BC35-6ABDB2D828D5",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
